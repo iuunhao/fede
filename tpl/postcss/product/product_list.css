@@ -1,0 +1,4 @@
+/* 本地组件 */
+@import url('../common/base.css');
+@import url('../component/_table.css');
+@import url('./_list.css');

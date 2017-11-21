@@ -1,0 +1,17 @@
+$red: red;
+.list {
+    &:after {
+        content: "_list";
+    }
+    &__item {
+        height: 200px;
+        width: 200px;
+        background: url(../../images/product/icon-btns/list_bg.jpg);
+        border: 10px solid $red;
+    }
+    &__ft {
+        height: 100px;
+        width: 100px;
+        background: url(../../images/product/list_bg.jpg);
+    }
+}

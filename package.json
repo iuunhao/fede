@@ -1,0 +1,45 @@
+{
+  "name": "fede",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "fede": "./bin/fede.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iuunhao",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^7.1.6",
+    "browser-sync": "^2.18.13",
+    "colors": "^1.1.2",
+    "commander": "^2.11.0",
+    "copy": "^0.3.1",
+    "cssnano": "^3.10.0",
+    "debug": "^3.1.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp.spritesmith": "^6.5.1",
+    "gutil": "^1.6.4",
+    "metalsmith": "^2.3.0",
+    "postcss": "^6.0.14",
+    "postcss-clean": "^1.1.0",
+    "postcss-nested": "^2.1.2",
+    "postcss-sorting": "^3.1.0",
+    "postcss-sprites": "^4.2.1",
+    "postcss-url": "^7.1.2",
+    "precss": "^2.0.0",
+    "gulp-copy": "^1.0.1",
+    "make-dir": "^1.1.0",
+    "gulp-sequence": "^0.4.6"
+  },
+  "engines": {
+    "node": ">= 7.6.0"
+  }
+}
